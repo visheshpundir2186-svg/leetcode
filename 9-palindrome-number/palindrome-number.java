@@ -13,7 +13,7 @@ class Solution {
             revno = revno * 10 + lastdigit;
         }
 
-        return original == revno;
+        return original== revno;
     }
 }
     
